@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "456663317041",
+    "project_id": "ecommerceapp-be23f",
+    "storage_bucket": "ecommerceapp-be23f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456663317041:android:89168fa22af68f56167310",
+        "android_client_info": {
+          "package_name": "com.example.fruitmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456663317041-dqnbfvn4ejosea1nlj28nt1a198vibtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fruitmarket",
+            "certificate_hash": "6226f48d93cca02d90909a2aedd8ddebc04240df"
+          }
+        },
+        {
+          "client_id": "456663317041-as64e7q2pcf4pghordr9p2f63a033ldl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJSx4tzwONv0qYza11QE5uWhTe30D-NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456663317041-as64e7q2pcf4pghordr9p2f63a033ldl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456663317041-j7mj8g36ufuaa96a07k7hn6pd8vadp5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fruitmarket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
